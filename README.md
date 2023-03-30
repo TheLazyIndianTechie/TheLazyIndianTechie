@@ -6,14 +6,18 @@ Game Developer
 
 I love games. I play games, I make games, I breathe games... Currently exploring Mixed Reality and Metaverse related projects. Love everything technology. Love networking and am looking to mentor as well!
 
-*   🌍  I'm based in Bangalore, India
-*   ✉️  You can contact me at [thelazyindiantechie@gmail.com](mailto:thelazyindiantechie@gmail.com)
-*   🧠  I'm learning Unity MARS, Unreal 5.2, Shader Graph, MetaQuest 2
-*   🤝  I'm open to collaborating on game development projects, open source gamedev, tech videos
-*   ⚡  I love coffee, board games and meeting new people!<a href="https://www.github.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/thelazyindiantechie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lzyindtky" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/lzyindtky?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Bangalore, India
+* ✉️  You can contact me at [thelazyindiantechie@gmail.com](mailto:thelazyindiantechie@gmail.com)
+* 🧠  I'm learning Unity MARS, Unreal 5.2, Shader Graph, MetaQuest 2
+* 🤝  I'm open to collaborating on game development projects, open source gamedev, tech videos
+* ⚡  I love coffee, board games and meeting new people!
+
+<a href="https://www.github.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thelazyindiantechie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lzyindtky" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/lzyindtky?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,23 +37,22 @@ I love games. I play games, I make games, I breathe games... Currently exploring
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://thelazyindiantechie.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/lzyindtky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/thelazyindiantechie"><img src="https://github-readme-stats.vercel.app/api?username=thelazyindiantechie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thelazyindiantechie's GitHub stats" /></a><a
-                      href="http://www.github.com/thelazyindiantechie"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=thelazyindiantechie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/thelazyindiantechie"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thelazyindiantechie&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/thelazyindiantechie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazyindiantechie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/thelazyindiantechie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://thelazyindiantechie.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.medium.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lzyindtky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thelazyindiantechie"><img src="https://github-readme-stats.vercel.app/api?username=thelazyindiantechie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thelazyindiantechie's GitHub stats" /></a>
+
+<a href="http://www.github.com/thelazyindiantechie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thelazyindiantechie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/thelazyindiantechie"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thelazyindiantechie&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/thelazyindiantechie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelazyindiantechie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/thelazyindiantechie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
