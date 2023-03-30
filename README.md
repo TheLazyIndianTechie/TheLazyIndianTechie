@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLazyIndianTechie
+- 👋 Hi, I’m Vinay
 - 👀 I’m interested in Video Games and Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Unity Projects
