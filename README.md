@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-I love games. I play games, I make games, I breathe games... Currently exploring Mixed Reality and Metaverse related projects. Love everything technology. Love networking and am looking to mentor as well!
+An avid gamer, I enjoy single player, narrative, story-driven games like The Last of Us. This was one of the primary reasons I became a Game Developer; to create amazing experiences like these. While that's the ultimate goal, I'm building my career learning the various intricacies of gamedev and levelling up as I go along!
+
+If you know what that feels like, do hit me up. I'm always open to collaborate on projects, discuss games or even do some multiplayer sessions of Destiny!
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [thelazyindiantechie@gmail.com](mailto:thelazyindiantechie@gmail.com)
-* 🧠  I'm learning Unity MARS, Unreal 5.2, Shader Graph, MetaQuest 2
+* 🧠  Currently, I'm learning Unity MARS, Unreal 5.2, Shader Graph, MetaQuest 2
 * 🤝  I'm open to collaborating on game development projects, open source gamedev, tech videos
 * ⚡  I love coffee, board games and meeting new people!
 
