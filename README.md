@@ -14,11 +14,15 @@ If you know what that feels like, do hit me up. I'm always open to collaborate o
 * 🤝  I'm open to collaborating on game development projects, open source gamedev, tech videos
 * ⚡  I love coffee, board games and meeting new people!
 
-<a href="https://app.daily.dev/thelazyindiantechie"><img src="https://api.daily.dev/devcards/84019cc657184ea083ce0749d3e5ed0c.png?r=m6n" width="400" alt="TheLazyIndianTechie's Dev Card"/></a>
+
 <a href="https://www.github.com/thelazyindiantechie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thelazyindiantechie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lzyindtky" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lzyindtky?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+
+<a href="https://app.daily.dev/thelazyindiantechie"><img src="https://api.daily.dev/devcards/84019cc657184ea083ce0749d3e5ed0c.png?r=m6n" width="400" alt="TheLazyIndianTechie's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
