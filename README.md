@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/thelazyindiantechie"><img src="https://api.daily.dev/devcards/84019cc657184ea083ce0749d3e5ed0c.png?r=m6n" width="400" alt="TheLazyIndianTechie's Dev Card"/></a>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay
 =============================================================================================================================
 
